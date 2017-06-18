@@ -1,7 +1,7 @@
 # AndroidUtils
 Android utils by Jajinba
 
-# Utils
+# Classes and support methods
 ### ArrayUtils
 - getLengthSafe
     - get Array or Collection's length/size (null safe)
